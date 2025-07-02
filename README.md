@@ -46,7 +46,6 @@ This project analyzes global COVID-19 data to visualize trends, compare countrie
 
 ## Credits
 - Data: [Our World in Data](https://ourworldindata.org/covid-cases)
-- Analysis & Modeling: [Your Name or Team]
 
 ## License
 This project is for educational and research purposes.
